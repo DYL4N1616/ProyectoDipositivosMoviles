@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ProyectoDipositivosMoviles</string>
+    <string name="correo">Usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="bt_ingresar">Ingresar</string>
+    <string name="tipo_cambio">Tipo de Cambio</string>
+    <string name="tipo_moneda">Tipo de Moneda</string>
+    <string name="crea_cuenta">Crea una cuenta</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="email">Correo electronico</string>
+    <string name="telefono">Telefono</string>
+    <string name="cumpleaños">Fecha de cumple años</string>
+    <string name="bt_registrarse">Registrarse</string>
+    <string name="condiciones">Al hacer click en "Registarse" acepta los  terminos y condiciones de nuestra aplicacion</string>
+    <string name="cambiar_foto">Cambiar foto</string>
+    <string name="nombre_p">Nombre</string>
+    <string name="correo_p">Correo</string>
+    <string name="idioma">Cambiar de idioma</string>
+    <string name="dia_semana">Primer dia de la semana</string>
+    <string name="domingo">Domingo</string>
+    <string name="lunes">Lunes</string>
+    <string name="aplicar">Aplicar</string>
+    <string name="costa_rica">Costa Rica</string>
+    <string name="dolar">Dolar</string>
+    <string name="euro">Euro</string>
+    <string name="compra">Compra</string>
+    <string name="venta">Venta</string>
+    <string name="conversor">Conversor de monedas</string>
+    <string name="digite_monto">Digite el monto que desea convertir</string>
+    <string name="crc">CRC</string>
+    <string name="usd">USD</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="cuenta_ba">Cuenta Bancaria</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+
+
+</resources>
